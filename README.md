@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="assets/blue_cyber_terminal.gif" width="100%" alt="Blue Cybersecurity Terminal"/>
+<img src="./blue_cyber_terminal.gif"
+     width="100%"
+     alt="Blue Cybersecurity Terminal"/>
 
 <br/>
 
