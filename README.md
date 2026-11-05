@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="./blue_cyber_terminal.gif"
-     width="100%"
-     alt="Blue Cybersecurity Terminal"/>
 
 <br/>
 
