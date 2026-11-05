@@ -1,22 +1,12 @@
 <div align="center">
-<div align="center">
-  <img
-    src="./assets/cyber-banner.png"
-    width="100%"
-    alt="Sakshi Chavan - Cybersecurity Engineering"
-  />
-</div>
+
+<img src="./assets/cyber-banner.png" width="100%" alt="Sakshi Chavan Cybersecurity Portfolio Banner"/>
+
 <br/>
-<br/>
-# `SAKSHI CHAVAN`
 
-### CYBERSECURITY ENGINEERING · APPLIED CRYPTOGRAPHY · SECURITY RESEARCH
-
-<img src="https://img.shields.io/badge/IDENTITY-CYBERSECURITY-0877FF?style=for-the-badge&labelColor=050B1A"/>
-<img src="https://img.shields.io/badge/FOCUS-SECURITY_ENGINEERING-00BFFF?style=for-the-badge&labelColor=050B1A"/>
-<img src="https://img.shields.io/badge/RESEARCH-POST_QUANTUM-0877FF?style=for-the-badge&labelColor=050B1A"/>
-
-`[ SYSTEM STATUS: ONLINE ]` &nbsp; ` [ SECURITY MODE: ACTIVE ]`
+<img src="https://img.shields.io/badge/CYBERSECURITY-ENGINEERING-0877FF?style=for-the-badge&labelColor=061329"/>
+<img src="https://img.shields.io/badge/APPLIED-CRYPTOGRAPHY-00BFFF?style=for-the-badge&labelColor=061329"/>
+<img src="https://img.shields.io/badge/RESEARCH-POST_QUANTUM-0877FF?style=for-the-badge&labelColor=061329"/>
 
 </div>
 
@@ -24,58 +14,44 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-## `01 // ABOUT ME`
+## ABOUT ME
 
-Hello! I'm **Sakshi**, an MCA Cybersecurity student passionate about understanding how systems work, how attacks happen, and how secure systems are engineered.
+Hello! I'm **Sakshi Chavan**, an MCA Cybersecurity student interested in understanding how systems work, how vulnerabilities emerge, and how security can be engineered.
 
-I'm developing my skills through hands-on experimentation, security labs, programming and research.
+I believe cybersecurity requires more than knowing attack techniques. It requires understanding systems, investigating evidence, solving problems and designing effective defences.
 
-My goal is to become a cybersecurity professional capable of investigating threats, analysing vulnerabilities, responding to incidents and building stronger security systems.
+My learning journey combines programming, practical security exercises, technical research and independent project development.
 
-<br/>
+### CURRENT MISSION
 
-### `CURRENT MISSION`
-
-- Strengthening cybersecurity foundations.
-- Exploring network and application security.
-- Learning Linux and security operations.
-- Developing applied cryptography skills.
-- Exploring post-quantum cryptography.
+- Strengthening computer networks and security fundamentals.
+- Developing Linux and operating system security skills.
+- Learning vulnerability analysis and incident response.
+- Exploring applied and post-quantum cryptography.
 - Understanding AI security.
+- Building practical cybersecurity tools.
 
 </td>
 
-<td width="45%" valign="top">
+<td width="42%" valign="top">
 
-## `02 // TERMINAL`
+## CURRENT STATUS
 
-```text
-root@sakshi:~$ whoami
+| Area | Focus |
+|---|---|
+| Cybersecurity | Building foundations |
+| Network Security | Learning |
+| Linux Security | Practising |
+| Cryptography | Exploring |
+| Post-Quantum Security | Research interest |
+| AI Security | Exploring |
+| QuantumVault | Development |
 
-Cybersecurity Student
+### PROFESSIONAL GOAL
 
-root@sakshi:~$ interests
-
-[+] Network Security
-[+] Cryptography
-[+] AI Security
-[+] Post-Quantum Security
-[+] Threat Investigation
-
-root@sakshi:~$ status
-
-Learning       : ACTIVE
-Research       : EXPLORING
-QuantumVault   : DEVELOPING
-Security Labs  : IN PROGRESS
-
-root@sakshi:~$ _
-```
-
-<img src="https://img.shields.io/badge/STATUS-LEARNING-0877FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/ENVIRONMENT-CYBER_LAB-00BFFF?style=flat-square"/>
+To become a security engineer capable of analysing attacks, investigating incidents, developing security solutions and protecting real-world systems.
 
 </td>
 </tr>
@@ -83,36 +59,36 @@ root@sakshi:~$ _
 
 ---
 
-## `03 // TECHNICAL ARSENAL`
+## TECHNICAL SKILLS & TOOLS
 
 <div align="center">
 
 ### PROGRAMMING & DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode,fastapi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,js,fastapi,git,github,vscode&theme=dark"/>
 
-### SYSTEMS & SECURITY
+### SYSTEMS & ENVIRONMENTS
 
 <img src="https://skillicons.dev/icons?i=linux,bash,windows,docker&theme=dark"/>
 
 </div>
 
-### AREAS OF INTEREST
+### CYBERSECURITY INTERESTS
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/NETWORK_SECURITY-0877FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WEB_SECURITY-0877FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WEB_APPLICATION_SECURITY-0877FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INCIDENT_RESPONSE-0877FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/APPLIED_CRYPTOGRAPHY-008FCB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/POST_QUANTUM_CRYPTOGRAPHY-008FCB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI_SECURITY-0877FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INCIDENT_RESPONSE-0877FF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## `04 // FEATURED PROJECTS`
+## FEATURED PROJECTS
 
 <table>
 <tr>
@@ -120,37 +96,83 @@ root@sakshi:~$ _
 
 ### 🔐 QuantumVault
 
-**File Security & Cryptography**
+**File Security & Applied Cryptography**
 
-A research-oriented file security project exploring encryption techniques and post-quantum cryptography concepts.
+A research-oriented file security project exploring encryption and post-quantum cryptography.
 
-- AES-based file encryption.
-- Hybrid cryptographic design.
-- Kyber-based key encapsulation exploration.
-- Security architecture improvements.
+**Key areas:**
+- AES-256-GCM encryption.
+- Hybrid cryptographic architecture.
+- Kyber-based key encapsulation.
+- Key management and file security.
 
-<a href="https://github.com/sakshichavan/Quantum_Vault">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-0877FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/SakshiChavan-14/Quantum_Vault">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-0877FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Cybersecurity Foundation
+### 🛡️ Cybersecurity Learning Journey
 
-**Learning & Practical Security**
+**Practical Security & Research**
 
-My ongoing journey towards strong cybersecurity fundamentals.
+My ongoing journey towards strong cybersecurity foundations.
 
+**Learning areas:**
 - Network security.
 - Linux security.
-- Threat investigation.
+- Vulnerability analysis.
 - Web application security.
-- Hands-on security labs.
+- Threat investigation.
+- Defensive security.
 
-<a href="https://github.com/sakshichavan/cybersecurity-foundation">
-<img src="https://img.shields.io/badge/LEARNING_JOURNEY-00AEEF?style=for-the-badge&logo=github&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/SakshiChavan-14?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-00AEEF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</div>
+
+---
+
+## RESEARCH & EXPLORATION
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Applied Cryptography
+
+Exploring encryption algorithms, secure key management, cryptographic protocols and practical implementations.
+
+### Post-Quantum Cryptography
+
+Understanding quantum computing threats and post-quantum cryptographic algorithms.
+
+### AI Security
+
+Exploring vulnerabilities and security challenges involving AI systems and machine learning.
+
+</td>
+<td width="50%" valign="top">
+
+### Threat Detection & Response
+
+Learning how to identify suspicious activity, analyse evidence, investigate attacks and respond to incidents.
+
+### Security Engineering
+
+Understanding secure architecture, application security, vulnerability prevention and defensive development.
+
+### Network Security
+
+Studying network protocols, traffic analysis, monitoring and network-based attacks.
 
 </td>
 </tr>
@@ -158,72 +180,54 @@ My ongoing journey towards strong cybersecurity fundamentals.
 
 ---
 
-## `05 // RESEARCH & EXPLORATION`
-
-```text
-[01] Applied Cryptography
-     └── Encryption, key management and secure protocols
-
-[02] Post-Quantum Cryptography
-     └── Quantum-resistant cryptographic algorithms
-
-[03] AI Security
-     └── Understanding threats against AI systems
-
-[04] Threat Detection & Response
-     └── Investigating attacks and defensive techniques
-
-[05] Security Engineering
-     └── Designing and improving secure applications
-```
-
----
-
-## `06 // GITHUB ACTIVITY`
+## GITHUB STATISTICS
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sakshichavan&show_icons=true&hide_border=true&bg_color=050B1A&title_color=1687FF&icon_color=00D9FF&text_color=EAF4FF&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SakshiChavan-14&show_icons=true&hide_border=true&bg_color=050B1A&title_color=1687FF&icon_color=00D9FF&text_color=EAF4FF&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshichavan&layout=compact&hide_border=true&bg_color=050B1A&title_color=1687FF&text_color=EAF4FF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiChavan-14&layout=compact&hide_border=true&bg_color=050B1A&title_color=1687FF&text_color=EAF4FF"/>
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=sakshichavan&theme=transparent&hide_border=true&ring=0877FF&fire=00D9FF&currStreakLabel=1687FF&sideLabels=EAF4FF&dates=8CA9CC"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=SakshiChavan-14&theme=transparent&hide_border=true&ring=0877FF&fire=00D9FF&currStreakLabel=1687FF&sideLabels=EAF4FF&dates=8CA9CC"/>
 
 </div>
 
 ---
 
-## `07 // MY LEARNING PHILOSOPHY`
+## MY LEARNING PHILOSOPHY
 
 <div align="center">
 
 ### UNDERSTAND THE SYSTEM.
+
 ### IDENTIFY THE WEAKNESS.
+
 ### INVESTIGATE THE EVIDENCE.
+
 ### BUILD THE DEFENCE.
 
 <br/>
 
-*Learning by building. Improving through experimentation. Growing through research.*
+*Learning through experimentation. Improving through engineering. Growing through research.*
 
 </div>
 
 ---
 
-## `08 // CONNECT WITH ME`
+## CONNECT WITH ME
 
 <div align="center">
 
-<a href="https://github.com/sakshichavan">
-<img src="https://img.shields.io/badge/GITHUB-PROFILE-0877FF?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/SakshiChavan-14">
+<img src="https://img.shields.io/badge/GITHUB-0877FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-`BUILD • BREAK • UNDERSTAND • SECURE`
+**Cybersecurity | Applied Cryptography | Security Research**
 
-**One experiment at a time. One stronger system at a time.**
+`BUILD • INVESTIGATE • UNDERSTAND • SECURE`
 
 </div>
