@@ -184,9 +184,9 @@ Studying network protocols, traffic analysis, monitoring and network-based attac
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SakshiChavan-14&show_icons=true&hide_border=true&bg_color=050B1A&title_color=1687FF&icon_color=00D9FF&text_color=EAF4FF&rank_icon=github"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=SakshiChavan-14&show_icons=true&hide_border=true&bg_color=050B1A&title_color=1687FF&icon_color=00D9FF&text_color=EAF4FF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiChavan-14&layout=compact&hide_border=true&bg_color=050B1A&title_color=1687FF&text_color=EAF4FF"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SakshiChavan-14&layout=compact&hide_border=true&bg_color=050B1A&title_color=1687FF&text_color=EAF4FF"/>
 
 <br/><br/>
 
