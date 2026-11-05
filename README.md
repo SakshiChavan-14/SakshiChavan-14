@@ -1,8 +1,13 @@
 <div align="center">
-
-
+<div align="center">
+  <img
+    src="./assets/cyber-banner.png"
+    width="100%"
+    alt="Sakshi Chavan - Cybersecurity Engineering"
+  />
+</div>
 <br/>
-
+<br/>
 # `SAKSHI CHAVAN`
 
 ### CYBERSECURITY ENGINEERING · APPLIED CRYPTOGRAPHY · SECURITY RESEARCH
